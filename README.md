@@ -1,4 +1,4 @@
-# Microspace
+# Microspace - Replica of Docker
 Microspace is a lightweight container orchestration tool designed to replicate Docker functionalities for manual container creation with namespaces and groups. It provides developers with a simple yet powerful alternative to Docker, enabling them to deploy microservices efficiently in isolated environments.
 
 ## Key Features
