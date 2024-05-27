@@ -6,3 +6,5 @@ Note: <i>conductor.sh can create only Debian container images. Can be changed by
 ## Comparison with Docker
 ![image](https://github.com/DebRC/Microspace/assets/63597606/8060cb54-72a7-4a00-b9b6-9f96070da3cc)
 
+## Service Orchestrator
+This example script deploys two separate web services, one internal and another external, on two separate containers, and then connect and expose the external service using the given functionalities.
