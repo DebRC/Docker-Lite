@@ -1,5 +1,5 @@
 # Docker Lite - A Container Creation Tool
-Microspace is a lightweight containerization tool designed to replicate Docker functionalities through manual container creation with namespaces and cgroups. It offers developers a straightforward yet powerful alternative to Docker, allowing efficient deployment and management of applications in isolated environments.
+Docker Lite is a lightweight containerization tool designed to replicate Docker functionalities through manual container creation with namespaces and cgroups. It offers developers a straightforward yet powerful alternative to Docker, allowing efficient deployment and management of applications in isolated environments.
 
 Note: <i>conductor.sh can create only Debian container images. Can be changed by replacing debootstrap with proper commands.</i>
 
