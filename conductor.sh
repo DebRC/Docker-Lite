@@ -221,6 +221,7 @@ run()
     # --mount-proc: mount the proc filesystem to the rootfs/proc directory
     unshare --uts --fork --pid --net --mount --ipc --kill-child --mount-proc=$CONTAINERDIR/$NAME/rootfs/proc \
     chroot $CONTAINERDIR/$NAME/rootfs $INIT_CMD_ARGS
+}
 
 # This will show containers that are currently running
 show_containers()
